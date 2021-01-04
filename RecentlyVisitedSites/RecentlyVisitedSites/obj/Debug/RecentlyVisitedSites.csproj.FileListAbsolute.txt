@@ -1,0 +1,10 @@
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.exe.config
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\bin\Debug\RecentlyVisitedSites.pdb
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csprojResolveAssemblyReference.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.Form1.resources
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.Properties.Resources.resources
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csproj.GenerateResource.Cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\RecentlyVisitedSites\RecentlyVisitedSites\obj\Debug\RecentlyVisitedSites.pdb
