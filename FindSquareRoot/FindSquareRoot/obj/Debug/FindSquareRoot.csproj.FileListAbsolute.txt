@@ -1,0 +1,7 @@
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe.config
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\bin\Debug\FindSquareRoot.pdb
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\FindSquareRoot\FindSquareRoot\obj\Debug\FindSquareRoot.pdb
