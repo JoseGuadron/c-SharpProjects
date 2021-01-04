@@ -1,0 +1,10 @@
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\bin\Debug\Number4.exe.config
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\bin\Debug\Number4.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\bin\Debug\Number4.pdb
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.csprojResolveAssemblyReference.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.Form1.resources
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.Properties.Resources.resources
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.csproj.GenerateResource.Cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.csproj.CoreCompileInputs.cache
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.exe
+C:\Users\joseg\Desktop\Keiser\Spring 2018\C# Sharp\Number4\Number4\obj\Debug\Number4.pdb
